@@ -1,4 +1,16 @@
-const CAMPOS_VALIDOS = ['codigo', 'nome', 'valor', 'imagem', 'descricao', 'quantidade', 'marca', 'colecao', 'modelo', 'tamanho', 'cor'];
+const CAMPOS_VALIDOS = 
+[
+    'codigo',
+    'colecao',
+    'descricao',
+    'imagem',
+    'marca',
+    'modelo',
+    'nome',
+    'quantidade',
+    'tamanho',
+    'valor'
+];
 
 class ValidacaoUtils {
 
